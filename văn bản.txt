@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <!-- Thắt chặt thuật toán ghim tâm đầu -->
+    <string name="aimlock.headshot.config">true</string>
+    <int name="touch.response.speed.ms" value="1" />
+    
+    <!-- Tăng cường DPI và Độ nhạy cảm ứng -->
+    <float name="sensitivity.booster.multiplier" value="2.5" />
+    <int name="sens.reddot.scope" value="99" />
+    <int name="sens.general.view" value="100" />
+    
+    <!-- Tối ưu độ mượt FPS khi kéo tâm -->
+    <int name="display.fps.stabilizer" value="120" />
+    <string name="hardware.acceleration">enabled</string>
+</map>
